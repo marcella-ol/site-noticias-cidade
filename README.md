@@ -1,4 +1,4 @@
-# Projeto Site - Notícias Cidade :oncoming_taxi:
+# Projeto Notícias Cidade :oncoming_taxi:
 
 https://marcella-ol.github.io/site-noticias-cidade/
 
