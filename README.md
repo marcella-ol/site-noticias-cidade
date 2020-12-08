@@ -1,5 +1,7 @@
 # Projeto Site - Notícias Cidade :oncoming_taxi:
 
+https://marcella-ol.github.io/site-noticias-cidade/
+
 #### Projeto criado no curso Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos, da plataforma Udemy.
 
 #### Professor: Jamilton Damasceno
